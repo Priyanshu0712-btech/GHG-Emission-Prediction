@@ -1,6 +1,6 @@
 # 🌍 GHG Emission Prediction Project
 
-This project focuses on predicting and analyzing **Greenhouse Gas (GHG) Emissions** using supply chain emission data collected across different industries and commodities from **2010 to 2016**.
+This project focuses on predicting and analyzing **Greenhouse Gas (GHG) Emissions** using supply chain emission data collected across different industries and commodities from **2010 to 2017**.
 
 ---
 
