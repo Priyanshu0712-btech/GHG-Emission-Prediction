@@ -103,13 +103,21 @@ The Streamlit web app allows users to:
 
 GHG-Emission-Prediction/
 ├── app.py
+
 ├── models/
+
 │ ├── LR_model.pkl
+
 │ └── scaler.pkl
+
 ├── utils/
+
 │ └── preprocessor.py
+
 ├── SupplyChainEmisionFactorsForIndustriesCommodities.xlsx
+
 ├── GHG_Emissions_Analysis.ipynb
+
 ├── README.md
 
 
@@ -127,4 +135,4 @@ GHG-Emission-Prediction/
 ## ✍️ Author
 
 **Name:** Priyanshu Kumar
-🎓 *B.Tech – AI/ML, 4th Semester*  
+🎓 *B.Tech – CS(AI & DS), 4th Semester*  
